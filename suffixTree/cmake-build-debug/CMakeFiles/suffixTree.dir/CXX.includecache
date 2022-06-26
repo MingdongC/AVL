@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/CLionProjects/suffixTree/suffixTree.cpp
+cstdio
+-
+string
+-
+iostream
+-
+suffixTree.h
+D:/CLionProjects/suffixTree/suffixTree.h
+string.h
+-
+cstdlib
+-
+
+D:/CLionProjects/suffixTree/suffixTree.h
+

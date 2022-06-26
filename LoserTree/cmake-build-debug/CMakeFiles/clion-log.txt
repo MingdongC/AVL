@@ -1,0 +1,4 @@
+"F:\software\CLion 2020.3\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" D:\CLionProjects\LoserTree
+-- Configuring done
+-- Generating done
+-- Build files have been written to: D:/CLionProjects/LoserTree/cmake-build-debug

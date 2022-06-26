@@ -1,0 +1,3 @@
+"F:\software\CLion 2020.3\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\Heap.dir/objects.a
+F:\software\x86_64-6.4.0-release-posix-sjlj-rt_v5-rev0\mingw64\bin\ar.exe cr CMakeFiles\Heap.dir/objects.a @CMakeFiles\Heap.dir\objects1.rsp
+F:\software\x86_64-6.4.0-release-posix-sjlj-rt_v5-rev0\mingw64\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\Heap.dir/objects.a -Wl,--no-whole-archive  -o Heap.exe -Wl,--out-implib,libHeap.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Heap.dir\linklibs.rsp

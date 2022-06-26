@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/CLionProjects/LoserTree/LoserTree.cpp
+iostream
+-
+math.h
+-
+LoserTree.h
+D:/CLionProjects/LoserTree/LoserTree.h
+limits.h
+-
+queue
+-
+ctime
+-
+
+D:/CLionProjects/LoserTree/LoserTree.h
+

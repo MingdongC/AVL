@@ -1,0 +1,3 @@
+D:/CLionProjects/BiSortTree/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/CLionProjects/BiSortTree/cmake-build-debug/CMakeFiles/BiSortTree.dir
+D:/CLionProjects/BiSortTree/cmake-build-debug/CMakeFiles/rebuild_cache.dir
